@@ -1,0 +1,55 @@
+body{
+    padding: 80px 0;
+}
+
+.submit-area{
+    margin-top: 50px;
+    padding: 50px 80px;
+    border: 1px solid #c4c4c4;
+    border-radius: 10px;
+}
+
+
+
+#transection-area{
+    display: none;
+}
+#balance-area{
+    margin-bottom: 80px;
+}
+
+.balance-box{
+    border: 1px solid #c4c4c4;
+    padding: 20px 45px;
+    border-radius: 10px;
+}
+.box-deposit{
+    background: #4E32C9;
+}
+.box-withdraw{
+    background: #DB3030;
+}
+.box-balance{
+    background: #39B846;
+}
+
+.balance-box-title{
+    margin-bottom: 10px;
+}
+.balance{
+    font-size: 52px;
+}
+
+
+.input-area-box{
+    border: 1px solid #4E32C9;
+    padding: 30px 45px;
+    border-radius: 10px;
+}
+.input-area-box .title{
+   font-size: 25px;
+   margin-bottom: 25px;
+}
+.input-area-box input{
+    margin-bottom: 35px;
+}
